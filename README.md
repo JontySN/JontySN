@@ -18,7 +18,7 @@
 > [!IMPORTANT]
 > Welcome, I'm **Jonty**!
 >
-> This is a github page to showcase all of the work Ive done when it comes to coding and design. Im currently powering through my degree at Wintec and hope to one day have a career in this feild.
+> This is a github page to showcase all of the work Ive done when it comes to coding and design. Im currently powering through my Bacholar of applied information technology degree at Wintec and hope to one day have a career in this field.
 > Im all ears when it comes to new projects and collaborations as I thrive in the challange of a new ideas.
 > 
 > If you enjoy my work, feel free to reach out and connect!
