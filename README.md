@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <a href="https://github.com/JontySN/JontySN/blob/main/Jontys%20CV.pdf" title="cv"><img src="https://img.shields.io/badge/CV-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="cv"></a> 
+  <a href="https://github.com/JontySN/JontySN/blob/main/Jontys%20CV.pdf" title="cv"><img src="https://img.shields.io/badge/CLICK ME FOR CV-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="cv"></a> 
 </p>
 
 > [!IMPORTANT]
