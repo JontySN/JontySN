@@ -8,12 +8,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonty-southcombe-nguyen-02aa13320/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="https://github.com/JontySN/JontySN/blob/main/Jontys%20CV.pdf" title="cv"><img src="https://img.shields.io/badge/CLICK ME FOR CV-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="cv"></a> 
+</p>
+
+<h2 align="center">
+  Tech Stack
+</h2>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <a href="https://github.com/JontySN/JontySN/blob/main/Jontys%20CV.pdf" title="cv"><img src="https://img.shields.io/badge/CLICK ME FOR CV-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="cv"></a> 
 </p>
 
 > [!IMPORTANT]
