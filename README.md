@@ -36,6 +36,7 @@
 <h4>🔹 Im confident in Python, HTML, .NET Maui, and Java with a growing knowledge of C# and im forever keen to grow my knowledge in new languages.</h4>
 <h2>🌐 Some Websites Ive made</h2>
 <h4>🔹LS Rural Fencing (2024) - https://www.lsruralfencing.co.nz/</h4>
+<h4>🔹Forrest Residential (2024) - https://www.forrestresidential.co.nz/</h4>
 <h4>🔹My Chemical Culture (first year Wintec project) - https://melwoo33.github.io/My-Chemical-Culture/</h4>
 <h2>🚀 Wintec work</h2>
 <h4>🔹This is a folder with all of my tech work in it to get a general idea of my skill level (2023 - ongoing) - https://github.com/JontySN/Wintec</h4>
