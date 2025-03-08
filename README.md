@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Level 6 IT student at Wintec 
+  Level 7 IT student at Wintec 
 </h2>
 
 <p align="center">
