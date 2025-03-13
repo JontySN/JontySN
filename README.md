@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonty-southcombe-nguyen-02aa13320/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://github.com/JontySN/JontySN/blob/main/Jontys%20CV.pdf" title="cv"><img src="https://img.shields.io/badge/CLICK ME FOR CV-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="cv"></a> 
+  <a href="https://github.com/JontySN/JontySN/blob/main/Jontys%20CV%202025.pdf" title="cv"><img src="https://img.shields.io/badge/CLICK ME FOR CV-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="cv"></a> 
 </p>
 
 <h2 align="center">
