@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Level 7 IT student at Wintec 
+  Programming and Development Gradute
 </h2>
 
 <p align="center">
