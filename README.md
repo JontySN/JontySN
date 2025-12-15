@@ -26,7 +26,7 @@
 > [!IMPORTANT]
 > Welcome, I'm **Jonty**!
 >
-> This is a github page to showcase all of the work Ive done when it comes to coding and design. Im currently powering through my Bacholar of applied information technology degree at Wintec and hope to one day have a career in this field.
+> This is a github page to showcase all of the work Ive done when it comes to coding and design. Ive since graduated (Dec 2025) from the Waikato Institute of Technology with a Bachelors degree information technologies where I thrived in making something from nothing using my programming and development skills.  
 > Im all ears when it comes to new projects and collaborations as I thrive in the challange of a new ideas.
 > 
 > If you enjoy my work, feel free to reach out and connect!
